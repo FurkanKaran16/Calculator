@@ -1,5 +1,5 @@
 # Calculator
-Calculator in Qt
+This is a simple calculator application built using Qt in C++.
 
 
 # Preview
